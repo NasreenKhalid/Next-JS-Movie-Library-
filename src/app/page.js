@@ -4,8 +4,8 @@ export default function HomePage(){
     <h1>My Movie Library</h1>
     <p>Here is a list of popular movies</p>
 
-    <ul>
-    <li>Indiana Jones and the Dial of Destiny</li>
+    <ul className="movie-list">
+    <li className="featured">Indiana Jones and the Dial of Destiny</li>
         <li>Guardians of the Galaxy Vol. 3</li>
         <li>Mission: Impossible - Dead Reckoning Part One</li>
         <li>Spider-Man: Across the Spider-Verse</li>
